@@ -4,6 +4,8 @@ This is a simple script to reduce the size of a PDF file by removing images or c
 
 It can also output a subset of the pages of the PDF.
 
+![Icon](docs/img/reduce-pdf-icon.png)
+
 ## Usage
 
 To use this tool, run
